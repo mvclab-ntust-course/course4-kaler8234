@@ -4,7 +4,7 @@
 The following classes are labeled: fish, jellyfish, penguins, sharks, puffins, stingrays, and starfish. Most images contain multiple bounding boxes.
 
 ## 實作過程
-可參考 [W4_2.ipynb]([a](https://github.com/mvclab-ntust-course/course4-kaler8234/blob/main/HW2/W4_2.ipynb)) 內的說明
+可參考 [W4_2.ipynb](https://github.com/mvclab-ntust-course/course4-kaler8234/blob/main/HW2/W4_2.ipynb) 內的說明
 
 ## Training Result
 ![](https://github.com/mvclab-ntust-course/course4-kaler8234/blob/main/HW2/train_result/results.png)
